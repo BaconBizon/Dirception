@@ -1,7 +1,7 @@
 import os
 import fileinput
 
-path = "C:/Users/Mathias Haugaard/Documents"
+path = "C:/Users/user/..."
 
 print("How many directories do you want?")
 
